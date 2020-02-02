@@ -28,3 +28,6 @@ if (result == -1):
     print(expression, " is invalid")
 else:
     print("Result: ", result)
+
+    
+    print("Operation completed")
